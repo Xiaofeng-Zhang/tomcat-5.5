@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-jkstatus-ant">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/workspace/Tomcat-5.5/apache-tomcat-5.5.23-src/connectors/jk/jkstatus/dist/tomcat-jkstatus-ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

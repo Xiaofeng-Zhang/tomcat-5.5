@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/workspace/Tomcat-5.5/apache-tomcat-5.5.23-src/servletapi/jsr152/examples/WEB-INF/lib/jstl.jar!/" />
+      <root url="jar://$USER_HOME$/workspace/Tomcat-5.5/apache-tomcat-5.5.23-src/servletapi/jsr152/examples/WEB-INF/lib/standard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
